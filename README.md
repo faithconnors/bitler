@@ -1,6 +1,6 @@
 # Bitler
 ### The coin of Ancapistan
-* Made with love by Faith Connors * 
+.hack//Made with love by Faith Connors  
 
 ## Features:
 - Based off Cryptonote for ridiculously slow hashrates
